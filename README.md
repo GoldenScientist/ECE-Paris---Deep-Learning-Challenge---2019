@@ -23,6 +23,8 @@ Since the dataset is balanced, this competition is evaluated on the categorizati
 For each Id in the test set, you must predict a Category.
 
 The file should contain a header and have the following format:
+
+
 Id,Category
 0,bee
 1,lion
