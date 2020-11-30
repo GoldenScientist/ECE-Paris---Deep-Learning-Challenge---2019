@@ -11,3 +11,21 @@ Any cheating strategies, like manually labelling the test dataset, would lead to
 Remember that final evaluation will be based on ranking, quality of code and ideas.
 
 https://www.kaggle.com/c/ecedeeplearning2019/overview
+
+
+## Goal
+The goal of this InClass competition is to predict the right animal for each image. Note that the dataset is clearly balanced between all the classes. For every Id in the test set, you should predict the correct Category which is basically the name of the animal predicted.
+
+## Metric
+Since the dataset is balanced, this competition is evaluated on the categorization accuracy of your predictions (the percentage of animals you get correct).
+
+## Submission Format
+For each Id in the test set, you must predict a Category.
+
+The file should contain a header and have the following format:
+Id,Category
+0,bee
+1,lion
+2,kangaroo
+3,wolf
+etc.
