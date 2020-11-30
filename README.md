@@ -19,9 +19,3 @@ The goal of this InClass competition is to predict the right animal for each ima
 ## Metric
 Since the dataset is balanced, this competition is evaluated on the categorization accuracy of your predictions (the percentage of animals you get correct).
 
-## Submission Format
-For each Id in the test set, you must predict a Category.
-
-The file should contain a header and have the following format:
-
-
