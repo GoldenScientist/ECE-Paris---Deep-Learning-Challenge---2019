@@ -25,10 +25,3 @@ For each Id in the test set, you must predict a Category.
 The file should contain a header and have the following format:
 
 
-Id,Category
-0,bee
-1,lion
-2,kangaroo
-3,wolf
-etc.
-
